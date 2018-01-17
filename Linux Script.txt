@@ -1,0 +1,29 @@
+1.Hello world 
+#!/bin/bash
+echo "hello world"
+---------------------------------------------------------------
+2.variable
+1.system variable :echo $BASH
+echo $BASH_VERSION
+echo $HOME
+echo $PWD
+2.user variable
+name=vishwajeet
+echo name is $name
+val =10
+echo $val
+3 .get input from key
+echo "enter the name"
+read name
+echo $name
+4.count =10
+if[ $count -eq 9 ]
+then
+echo "condition is true"
+5.if[ $count -eq 9 ]
+then
+echo "condition is true"
+else
+echo "condtion is false
+
+
